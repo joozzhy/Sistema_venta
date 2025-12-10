@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "papas fritas 1",
+        "descripcion": "papas fritas chicas",
+        "precio": 2000
+    },
+    {
+        "id": 2,
+        "nombre": "completo",
+        "descripcion": "completo italiano",
+        "precio": 2600
+    },
+    {
+        "id": 3,
+        "nombre": "hamburguesa 1",
+        "descripcion": "hambuerguesa italia",
+        "precio": 5500
+    },
+    {
+        "id": 4,
+        "nombre": "salchi-papas 1",
+        "descripcion": "salchi-papas chicas",
+        "precio": 3000
+    },
+    {
+        "id": 5,
+        "nombre": "salchi-papas 2",
+        "descripcion": "salchi-papas grandes",
+        "precio": 5000
+    },
+    {
+        "id": 6,
+        "nombre": "111",
+        "descripcion": "111",
+        "precio": 0
+    }
+]
